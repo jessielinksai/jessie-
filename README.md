@@ -2,5 +2,5 @@
 A.I.
 hellow i`am jessie 
 
-i will be your personal assistant.
-i can help with emails and managing your calendar.
+I will be your personal assistant.
+I can help with emails and managing your calendar.
